@@ -5,4 +5,4 @@
 This repository contains resources related to the [Blink: Making An LED Blink On An Arduino Uno](https://www.woolseyworkshop.com/2018/05/24/blink-making-an-led-blink-on-an-arduino-uno) article published on [WoolseyWorkshop.com](https://www.woolseyworkshop.com).
 
 ## Blink
-The [Blink](Blink) directory contains the Blink Sketch file.
+The [Blink](Blink) directory contains the Blink sketch file.
