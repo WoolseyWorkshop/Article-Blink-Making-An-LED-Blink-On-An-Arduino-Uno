@@ -9,7 +9,7 @@
 // Copyright (c) 2020 Woolsey Workshop.  All rights reserved.
 
 
-const byte RedLED = 2;                   // reference digital pin 2 as RedLED
+const uint8_t RedLED = 2;                // reference digital pin 2 as RedLED
 const unsigned long BlinkPeriod = 1000;  // blinking period in milliseconds
 
 void setup() {
