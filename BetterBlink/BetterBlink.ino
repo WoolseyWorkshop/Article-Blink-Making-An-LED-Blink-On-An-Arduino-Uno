@@ -4,10 +4,10 @@
 // An Arduino sketch that blinks an LED without using the delay() function.
 //
 // Circuit:
-// - An LED is connected to pin D2.
+// - An LED is connected to pin D2 via a 330 Ω resistor.
 //
 // Created by John Woolsey on 10/22/2020.
-// Modified by John Woolsey on 01/09/2023.
+// Modified by John Woolsey on 01/14/2023.
 // Copyright (c) 2020 Woolsey Workshop.  All rights reserved.
 
 const uint8_t RedLED = 2;                // reference digital pin 2 as RedLED

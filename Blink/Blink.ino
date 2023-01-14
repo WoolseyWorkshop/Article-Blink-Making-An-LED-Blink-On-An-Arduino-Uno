@@ -3,6 +3,8 @@
 
   Turns an LED on for one second, then off for one second, repeatedly.
 
+  An LED is connected to pin D2 via a 330 Ω resistor.
+
   Based on the Blink sketch in Main Menu > File > Examples > 01.Basics.
 
   modified 8 May 2014
